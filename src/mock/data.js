@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Tegshjargal',
-  subtitle: `I'm Front-End developer`,
+  subtitle: `I'm Software Developer`,
   cta: 'Know more',
 };
 
@@ -28,7 +28,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'projectblack.png',
+    img: 'project2.png',
+    title: 'Angel Shop',
+    info: `This project deals with developing an e-commerce website for Online Product Sale. It provides the user with a catalog of different product available for purchase in the store. In order to facilitate online purchase a shopping cart is provided to the user.`,
+    info2: `Any member can register and view available products. Only registered member can purchase multiple products regardless of quantity.`,
+    url: 'http://angel-shop.herokuapp.com/',
+    repo: 'https://github.com/Tegshjargalaa/crwn-clothing', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project1.png',
     title: 'Shopping Cart',
     info: `All-in-one shopping cart concept design. The page is clean and simple, and since it doesn't involve a lot of design elements, the entire layout is easy to understand.`,
     info2: `You can add desired products to the shopping cart and when you checkout the items will be stored in backend and you will be notified about your order detail.`,
