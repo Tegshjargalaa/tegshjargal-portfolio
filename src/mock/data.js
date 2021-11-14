@@ -11,16 +11,16 @@ export const headData = {
 export const heroData = {
   title: 'Hello, my name is',
   name: 'Tegshjargal',
-  subtitle: `I'm Software Developer`,
+  subtitle: `I'm Software Engineer`,
   cta: 'Know more',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: 'I am an IT professional with 9 years of combined experience in the IT industry, out of which 4 years was in the design and development of complex software systems experience.  ',
-  paragraphTwo: 'I mostly focused on designing, developing, and implementing front-end applications and solutions using range of technologies and programming languages including JavaScript, Java, React, Spring, MySQL, Node JS and REST API.',
-  paragraphThree: `I am eager to learn any new things, happy to share my knowledge and to help others. I am really optimistic person, so I can make a positive atmosphere in my team. `,
+  paragraphOne: 'I am an IT professional with 10 years of combined experience in the IT industry, out of which 5 years was in the design and development of complex software systems experience.  ',
+  paragraphTwo: 'I mostly focused on designing, developing, and implementing back-end services and solutions using range of technologies and programming languages including Java, SpringBoot, Hibernate, MySQL and REST API. Also I have experience with React, Angular and NodeJS. ',
+  paragraphThree: `I am eager to learn any new things, happy to share my knowledge and to help others. I am really optimistic person, so I believe that I can make a positive atmosphere in my team. `,
   resume: 'https://drive.google.com/file/d/1pM2tLI93LFUl3ALGWAPX5yIFswtonZzU/view?usp=sharing', // if no resume, the button will not show up
 };
 
