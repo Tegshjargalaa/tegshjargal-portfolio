@@ -18,10 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.png',
-  paragraphOne: 'I am an IT professional with 10 years of combined experience in the IT industry, out of which 5 years was in the design and development of complex software systems experience.  ',
-  paragraphTwo: 'I mostly focused on designing, developing, and implementing back-end services and solutions using range of technologies and programming languages including Java, SpringBoot, Hibernate, MySQL and REST API. Also I have experience with React, Angular and NodeJS. ',
+  paragraphOne: 'I am an IT professional with 14 years of combined experience in the IT industry, out of which 9 years was in the design and development of complex software systems experience.  ',
+  paragraphTwo: 'I mostly focused on designing, developing, and implementing front-end modules using range of technologies and programming languages including JavaScript, TypeScript, ReactJS, Bootstrap, NextJS and Tailwind. Also, I have Proven track record in collaborating with cross-functional teams to deliver innovative solutions that drive business growth.',
   paragraphThree: `I am eager to learn any new things, happy to share my knowledge and to help others. I am really optimistic person, so I believe that I can make a positive atmosphere in my team. `,
-  resume: 'https://drive.google.com/file/d/1pM2tLI93LFUl3ALGWAPX5yIFswtonZzU/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1viPL-xE2xppSCS_XSNteTQj30Jyfy2Ot/view?usp=drive_link', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
